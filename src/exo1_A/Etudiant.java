@@ -1,8 +1,8 @@
 package exo1_A;
 
 public class Etudiant {
-	private String nom;
-	private String prenom;
+	protected String nom;
+	protected String prenom;
 
 	public void setNom(String nom) {
 		this.nom = nom;
